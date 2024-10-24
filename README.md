@@ -6,4 +6,5 @@ for firebase side
 
 first install npm firebase neccesary tolls
 
-firebase ci  **for firebase token**
+``firebase login``
+``firebase ci``  **for firebase token**
