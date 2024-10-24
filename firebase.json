@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "firebase-project-name",
+    "public": "your public directory name",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
